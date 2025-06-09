@@ -10,7 +10,7 @@ project-url: https://docs.google.com/document/d/1jp48RLDzKuJ4DHutKpZwXPyeeT4doSV
 
 
 # Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: Implemented filters like AND,NOT,and OR to my SQL queries to receive specific information on two different tables Lastly, I used LIKE and the percentage sign (%) wildcard to filter for patterns.
+description: Implemented filters AND,NOT,and OR to my SQL queries to receive specific information on two different tables Lastly, I used LIKE and the percentage sign (%) wildcard to filter for patterns.
 
 
 ---
