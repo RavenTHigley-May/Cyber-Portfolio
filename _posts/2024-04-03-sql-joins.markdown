@@ -6,8 +6,11 @@ img: sql.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
-project-url: 
+project-url: https://docs.google.com/document/d/1jp48RLDzKuJ4DHutKpZwXPyeeT4doSVWd6McMbcGaUA/edit?tab=t.0#heading=h.cssmkpdye1jk
+
 
 # Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+description: Implemented filters like AND,NOT,and OR to my SQL queries to receive specific information on two different tables Lastly, I used LIKE and the percentage sign (%) wildcard to filter for patterns.
+
+
 ---
